@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anime Viewer</string>
+
+    <string name="title_home">Finder</string>
+    <string name="title_dashboard">List</string>
+    <string name="title_notifications">About</string>
+
+    <string name="acgrip">ACG.RIP</string>
+    <string name="agefans">AGE Fans</string>
+    <string name="application">Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="auto_check_updates">Automatically check for updates</string>
+    <string name="already_latest_version">Already the latest version.</string>
+    <string name="auto_check_updates_summary">The software will be checked for new versions every time it is launched.</string>
+    <string name="auto_check_updates_summary_disabled">The software will not be checked for new versions every time it is launched.</string>
+
+    <string name="back">back</string>
+    <string name="blog">Official blog</string>
+    <string name="basic">Basic</string>
+    <string name="bilibili">Bilibili</string>
+    <string name="bt_download">BT Download</string>
+    <string name="bgm_calendar">Anime Calendar</string>
+
+    <string name="copyright">© 2017–2024 GuoQi Mengxin.</string>
+    <string name="collection">Collection</string>
+    <string name="check_update">Check for updates.</string>
+    <string name="checking_update">Checking for updates…</string>
+    <string name="collect_success">Already collected this keyword</string>
+    <string name="cookie_save_hint">When the web page verification is completed, press the return button.</string>
+    <string name="check_update_error">Error checking for updates.</string>
+    <string name="captured_video_hint">After capturing the video resource, click the camera icon in the title bar to view the resource link.</string>
+    <string name="check_update_summaty">Check the latest available version.</string>
+    <string name="cancel_collect_success">This keyword has been uncollected</string>
+
+    <string name="dmxq">Dami XingQiu</string>
+    <string name="delete">Delete</string>
+    <string name="donation">Donation</string>
+    <string name="download_current">Download</string>
+    <string name="download_torrent">Download torrents</string>
+
+    <string name="email_contact">Email contact</string>
+    <string name="enabled_search_history">Enable search history</string>
+
+    <string name="follow">Follow</string>
+    <string name="find_new_anime">Discovering New Anime</string>
+    <string name="find_new_version">New version found</string>
+
+    <string name="hint_change_dashboard_position">You can switch search sites in the upper right corner menu.</string>
+
+    <string name="i_know">I know</string>
+
+    <string name="libvio">LIBVIO</string>
+    <string name="load_failed">Failed to load:</string>
+
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="mikan_project">Mikan Project</string>
+
+    <string name="no_search_results">No relevant search results found</string>
+    <string name="network_proxy_hint">Some websites require a VPN to access.</string>
+
+    <string name="okay">OK</string>
+    <string name="online_video">Online video</string>
+    <string name="open_in_new_browser">Open in browser</string>
+
+    <string name="privacy">Privacy statement</string>
+    <string name="play_online">watch online</string>
+    <string name="page_piker_end">.</string>
+    <string name="published_on_end">ago, size:</string>
+    <string name="page_piker_start">Page</string>
+    <string name="published_on_start">Published</string>
+
+    <string name="qq_group">QQ Group</string>
+
+    <string name="released_today">Released today</string>
+    <string name="request_security_check">You need to perform a security check first and then search again.</string>
+    <string name="require_select_dashboard">You need to select a search site to start searching</string>
+
+    <string name="select_action">Select Action</string>
+    <string name="search_history">Search history</string>
+    <string name="select_dashboard">Select search site</string>
+    <string name="search_query_hint">Enter anime name…</string>
+    <string name="select_dashboard_hint">Please click the menu in the upper right corner to select a search website.</string>
+    <string name="select_action_summary">Please select what you want to do</string>
+    <string name="settings_search_header">Search</string>
+    <string name="select_email_application">Choose email App</string>
+    <string name="search_interval_too_short">Search interval too short</string>
+    <string name="settings_search_dashboard_select">Select search site</string>
+
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="torrent_download_is_starting">The download of the torrent file has started. Please check the download progress in the notification bar.</string>
+
+    <string name="updates">Update</string>
+    <string name="use_guide">Tutorial</string>
+
+    <string name="verified">Verified</string>
+    <string name="view_info">check the details</string>
+    <string name="video_resources">Video resources</string>
+    <string name="view_update_log">Current version update log</string>
+    <string name="verified_dashboard">7 trusted search sites have been verified</string>
+
+    <string name="ysjdm">Yishijie Anime</string>
+    <string name="image_search_anime">Search Anime by Image</string>
+    <string name="qimiqimi">Qimiqimi</string>
+
+</resources>

@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="m20.bgm.downloader.v4.SearchActivity">
+    <item
+        android:id="@+id/item_agefans"
+        android:title="@string/agefans"/>
+    <item
+        android:id="@+id/item_dmxq"
+        android:title="@string/dmxq" />
+    <item
+        android:id="@+id/item_ysjdm"
+        android:title="@string/ysjdm" />
+    <item
+        android:id="@+id/item_libvio"
+        android:title="@string/libvio" />
+    <item
+        android:id="@+id/item_qimiqimi"
+        android:title="@string/qimiqimi" />
+    <item
+        android:id="@+id/item_mikan"
+        android:title="@string/mikan_project" />
+    <item
+        android:id="@+id/item_acgrip"
+        android:title="@string/acgrip" />
+    <item
+        android:id="@+id/item_collect"
+        android:icon="@drawable/star_24px"
+        android:title="@string/collection"
+        app:showAsAction="always"/>
+</menu>

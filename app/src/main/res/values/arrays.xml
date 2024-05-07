@@ -1,0 +1,22 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>@string/agefans</item>
+        <item>@string/dmxq</item>
+        <item>@string/ysjdm</item>
+        <item>@string/libvio</item>
+        <item>@string/qimiqimi</item>
+        <item>@string/mikan_project</item>
+        <item>@string/acgrip</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>agefans</item>
+        <item>dmxq</item>
+        <item>ysjdm</item>
+        <item>libvio</item>
+        <item>qimiqimi</item>
+        <item>mikan</item>
+        <item>acgrip</item>
+    </string-array>
+</resources>

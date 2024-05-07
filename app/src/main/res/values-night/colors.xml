@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_color">#191c21</color>
+    <color name="summary_background_color">@color/grey_900</color>
+    <color name="bar_background_color">#232a32</color>
+
+    <color name="title_textcolor">@color/white</color>
+    <color name="textcolor">@color/grey_200</color>
+    <color name="summary_textcolor">@color/grey_300</color>
+    <color name="hint_textcolor">@color/grey_400</color>
+
+    <color name="dividing_line_color">@color/grey_900</color>
+    <color name="dividing_line_deep_color">@color/grey_800</color>
+
+    <color name="image_loading_background_color">@color/grey_900</color>
+
+    <color name="verified_card_background">@color/blue_grey_800</color>
+
+</resources>

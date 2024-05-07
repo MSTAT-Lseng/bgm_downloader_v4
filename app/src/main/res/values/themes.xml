@@ -1,0 +1,47 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.番剧下载" parent="Theme.MaterialComponents.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorPrimaryVariant">@color/blue_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange_200</item>
+        <item name="colorSecondaryVariant">@color/orange_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <!--<item name="android:statusBarColor">?attr/colorPrimaryVariant</item>-->
+        <item name="android:statusBarColor">@color/background_color</item>
+        <!-- Customize your theme here. -->
+        <item name="colorAccent">@color/grey_600</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.番剧下载" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="Theme.番剧下载.MD3" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+    </style>
+    <style name="Theme.番剧下载.MD3.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#d8e3f7</item>
+    </style>
+
+    <style name="Theme.番剧下载.NoActionBar" parent="Theme.番剧下载">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.番剧下载.Material3StatusBar" parent="Theme.番剧下载">
+        <item name="android:statusBarColor">@color/bar_background_color</item>
+    </style>
+
+    <style name="CollapsingToolbarTitleStyle">
+        <item name="android:textSize">24sp</item> <!-- Change the font size here -->
+    </style>
+
+    <style name="Theme.番剧下载.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.番剧下载.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">番剧下载</string>
+
+    <string name="title_home">发现</string>
+    <string name="title_dashboard">清单</string>
+    <string name="title_notifications">关于</string>
+
+    <string name="acgrip">"ACG.RIP"</string>
+    <string name="agefans">AGE 动漫</string>
+    <string name="application">程序</string>
+    <string name="action_settings">设置</string>
+    <string name="auto_check_updates">自动检查更新</string>
+    <string name="already_latest_version">已经是最新版本</string>
+    <string name="auto_check_updates_summary">每次启动软件时将检查是否有新版本</string>
+    <string name="auto_check_updates_summary_disabled">每次启动软件时将不会检查是否有新版本</string>
+
+    <string name="back">返回</string>
+    <string name="blog">官方博客</string>
+    <string name="basic">基础</string>
+    <string name="bilibili">哔哩哔哩</string>
+    <string name="bt_download">BT下载</string>
+    <string name="bgm_calendar">番剧日历</string>
+
+    <string name="copyright">© 2017–2024 过气萌新.</string>
+    <string name="collection">收藏条目</string>
+    <string name="check_update">检查更新</string>
+    <string name="collect_success">已经收藏该关键词</string>
+    <string name="checking_update">正在检查更新…</string>
+    <string name="cookie_save_hint">当网页验证完成后按下返回按钮即可</string>
+    <string name="check_update_error">检查更新出错</string>
+    <string name="captured_video_hint">截取到视频资源，点击标题栏摄像机图标即可查看资源链接。</string>
+    <string name="check_update_summaty">Check for updates.</string>
+    <string name="cancel_collect_success">已经取消收藏该关键词</string>
+
+    <string name="dmxq">大米星球</string>
+    <string name="delete">Delete</string>
+    <string name="donation">捐赠萌新</string>
+    <string name="download_torrent">下载种子</string>
+    <string name="download_current">立即下载</string>
+
+    <string name="email_contact">邮箱联系</string>
+    <string name="enabled_search_history">启用搜索历记录功能</string>
+
+    <string name="follow">关注</string>
+    <string name="find_new_anime">发现新动漫</string>
+    <string name="find_new_version">发现新版本</string>
+
+    <string name="hint_change_dashboard_position">您可以在右上角菜单切换检索网站</string>
+
+    <string name="i_know">我知道了</string>
+
+    <string name="libvio">LIBVIO</string>
+    <string name="load_failed">加载失败：</string>
+
+    <string name="miscellaneous">杂项</string>
+    <string name="mikan_project">蜜柑计划</string>
+
+    <string name="no_search_results">没有找到相关搜索结果</string>
+    <string name="network_proxy_hint">部分网站需要科学上网才能访问</string>
+
+    <string name="okay">确定</string>
+    <string name="online_video">在线视频</string>
+    <string name="open_in_new_browser">在浏览器中打开</string>
+
+    <string name="privacy">隐私声明</string>
+    <string name="play_online">在线观看</string>
+    <string name="page_piker_end">页</string>
+    <string name="page_piker_start">第</string>
+    <string name="published_on_end">前发布，大小</string>
+    <string name="published_on_start">于</string>
+
+    <string name="qq_group">QQ 群组</string>
+
+    <string name="released_today">今日上映</string>
+    <string name="request_security_check">需要先进行安全检测后重新进行搜索</string>
+    <string name="require_select_dashboard">需要选择一个检索网站才能开始搜索</string>
+
+    <string name="select_action">选择操作</string>
+    <string name="search_history">搜索历史</string>
+    <string name="select_dashboard">选择检索网站</string>
+    <string name="search_query_hint">输入动漫名称…</string>
+    <string name="select_dashboard_hint">请点击右上角的菜单选择一个检索网站</string>
+    <string name="select_action_summary">请选择要进行的操作</string>
+    <string name="settings_search_header">搜索</string>
+    <string name="select_email_application">选择邮件客户端</string>
+    <string name="search_interval_too_short">搜索间隔过短</string>
+    <string name="settings_search_dashboard_select">选择检索网站</string>
+
+    <string name="title_activity_search">搜索</string>
+    <string name="title_activity_settings">设置</string>
+    <string name="torrent_download_is_starting">已经开始下载种子文件，请在通知栏查看下载进度。</string>
+
+    <string name="updates">更新</string>
+    <string name="use_guide">使用教程</string>
+
+    <string name="verified">已验证</string>
+    <string name="view_info">查看详情</string>
+    <string name="video_resources">视频资源</string>
+    <string name="view_update_log">当前版本更新日志</string>
+    <string name="verified_dashboard">已经验证了 7 个可信的检索网站</string>
+
+    <string name="ysjdm">异世界动漫</string>
+    <string name="image_search_anime">以图搜番</string>
+    <string name="qimiqimi">奇米奇米</string>
+
+</resources>
